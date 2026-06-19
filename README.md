@@ -12,7 +12,7 @@
 
 ## 🌱 About Me:
 
-🎓 I'm a **1st year Engineering Student** at **ESPRIT** (École Supérieure Privée d'Ingénierie et de Technologies), TIC common core, since September 2025.
+🎓 I'm a **1st year Engineering Student** at **ESPRIT** (École Supérieure Privée d'Ingénierie et de Technologies).
 
 📊 Interested in **Data Science**, **Data Analysis**, and **Computer Systems**.
 
@@ -48,6 +48,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
 
@@ -81,27 +82,7 @@
 
 ---
 
-## 🎓 Education
-
-- **ESPRIT** — Engineering Cycle, TIC Common Core *(Sep 2025 – Present)*
-- **IPEIGB** — Preparatory Cycle MP *(Sep 2023 – Jun 2025)* — Admitted to National Engineering Schools Entrance Exam
-- **Lycée l'Indépendance Oued-Ellil** — Baccalauréat, Mathematics, *Assez Bien* *(Sep 2022 – Jun 2023)*
-
-## 🗣️ Languages
-- 🇹🇳 Arabic — Native
-- 🇫🇷 French — TCF C1
-- 🇬🇧 English — C1
-
-## 🤝 Personal Skills
-Organization · Teamwork · Adaptability
-
-## 🌍 Associative Activity
-**Leo Club Bueno Mercado** — Social Works Commission Head *(2019 – 2021)*
-
----
 
 <div align="center">
-
-📍 La Manouba, Tunis &nbsp;|&nbsp; 📧 molkakhlaifi30@gmail.com &nbsp;|&nbsp; 📞 99 161 584
 
 </div>
