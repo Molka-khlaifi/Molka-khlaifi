@@ -3,7 +3,8 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Molka+Khlaifi;Computer+Engineering+Student;Future+Data+Scientist&center=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;I'm+Molka+Khlaifi;Computer+Engineering+Student;Aspiring+Data+Scientist;AI+And+Software+Enthusiast
+&center=true&size=22&style=bald">
 </h1> 
 
 [![GitHub](https://img.shields.io/badge/-View%20My%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Molka-khlaifi)
