@@ -16,8 +16,6 @@
 
 📊 Interested in **Data Science**, **Data Analysis**, and **Computer Systems**.
 
-🚀 Currently looking for a **6-week summer internship** to strengthen my technical skills and gain my first professional experience.
-
 🧠 I enjoy turning ideas into working desktop applications, from interface design to database integration.
 
 ---
@@ -26,7 +24,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/molka-khlaifi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:molkakhlaifi30@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Molka-khlaifi)
 
 ---
 
@@ -57,13 +54,13 @@
 ## 🚀 Featured Projects:
 
 ### 🚗 [Fi Thnitek — Carpooling Management App](https://github.com/Molka-khlaifi)
-**Esprit Ingénieur | PIDEV Project — Java · JavaFX · MySQL** *(Jan 2026)*
+**Esprit Ingénieur | PIDEV Project — Java · JavaFX · MySQL** 
 - Designed and developed a desktop carpooling application with a JavaFX user interface.
 - Implemented a relational MySQL database for managing users, trips, and bookings.
 - Built CRUD operations and connected the GUI to the database via JDBC.
 
 ### 🏋️ [GYM-APP — Sports Center Management App](https://github.com/Molka-khlaifi)
-**Esprit Ingénieur | C · Glade** *(Sep 2025)*
+**Esprit Ingénieur | C · Glade** 
 - Built a desktop application to manage members, subscriptions, and activities for a sports center.
 - Designed the graphical interface with Glade and linked it to business logic and CRUD operations in C.
 - Applied object-oriented programming and data management concepts in practice.
